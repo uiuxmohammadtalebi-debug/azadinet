@@ -1,0 +1,2 @@
+# azadinet
+Panel VPN Automatic
